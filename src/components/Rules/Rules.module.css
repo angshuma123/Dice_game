@@ -1,0 +1,37 @@
+.container{
+    background-color: 
+    #FBF1F1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 208px;
+    width: 794px;
+    padding: 20px;
+    gap: 14px;
+}
+.container h2{
+    
+    font-size: 24px;
+    font-weight: 700;
+    position: relative;
+    right: 270px;
+}
+.container p{
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.p1{
+    top: 0.3px;
+}
+
+.container .p1,.p2{
+    position: relative;
+    right: 340px;
+    
+}
+.container .p3{
+    position: relative;
+    right: 16px;
+}
